@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/gitRepo/MLOps/examples/sklearn_elasticnet_wine/mlruns/0/33f9e2dfe459459590bdb91e37a2890d/artifacts
+end_time: 1685756848260
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 33f9e2dfe459459590bdb91e37a2890d
+run_name: nimble-finch-956
+run_uuid: 33f9e2dfe459459590bdb91e37a2890d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685756844338
+status: 3
+tags: []
+user_id: Justi

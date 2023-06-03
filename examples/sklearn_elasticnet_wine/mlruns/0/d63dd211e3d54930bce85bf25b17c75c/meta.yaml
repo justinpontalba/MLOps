@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/gitRepo/MLOps/examples/sklearn_elasticnet_wine/mlruns/0/d63dd211e3d54930bce85bf25b17c75c/artifacts
+end_time: 1685756678920
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d63dd211e3d54930bce85bf25b17c75c
+run_name: traveling-koi-119
+run_uuid: d63dd211e3d54930bce85bf25b17c75c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685756675023
+status: 3
+tags: []
+user_id: Justi
