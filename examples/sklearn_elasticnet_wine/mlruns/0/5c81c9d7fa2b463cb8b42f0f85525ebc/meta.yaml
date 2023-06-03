@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/gitRepo/MLOps/examples/sklearn_elasticnet_wine/mlruns/0/5c81c9d7fa2b463cb8b42f0f85525ebc/artifacts
+end_time: 1685764195441
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5c81c9d7fa2b463cb8b42f0f85525ebc
+run_name: traveling-loon-127
+run_uuid: 5c81c9d7fa2b463cb8b42f0f85525ebc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685764191550
+status: 3
+tags: []
+user_id: Justi

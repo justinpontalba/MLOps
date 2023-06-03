@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/gitRepo/MLOps/scripts/mlruns/0/a33ee3e9c5064a8f9369e74c50e95a66/artifacts
+end_time: 1685764981701
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a33ee3e9c5064a8f9369e74c50e95a66
+run_name: enthused-owl-714
+run_uuid: a33ee3e9c5064a8f9369e74c50e95a66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685764973703
+status: 4
+tags: []
+user_id: Justi

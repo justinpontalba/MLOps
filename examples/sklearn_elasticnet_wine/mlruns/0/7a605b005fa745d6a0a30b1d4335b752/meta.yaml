@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/gitRepo/MLOps/examples/sklearn_elasticnet_wine/mlruns/0/7a605b005fa745d6a0a30b1d4335b752/artifacts
+end_time: 1685763651815
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7a605b005fa745d6a0a30b1d4335b752
+run_name: burly-worm-659
+run_uuid: 7a605b005fa745d6a0a30b1d4335b752
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685763538191
+status: 3
+tags: []
+user_id: Justi

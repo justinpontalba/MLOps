@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/gitRepo/MLOps/scripts/mlruns/0/ba26480edd1d428e8837f2d0464fad9c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ba26480edd1d428e8837f2d0464fad9c
+run_name: colorful-cod-562
+run_uuid: ba26480edd1d428e8837f2d0464fad9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685764039986
+status: 1
+tags: []
+user_id: Justi

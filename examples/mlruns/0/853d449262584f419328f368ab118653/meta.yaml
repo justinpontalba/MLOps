@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/gitRepo/MLOps/scripts/mlruns/0/853d449262584f419328f368ab118653/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 853d449262584f419328f368ab118653
+run_name: orderly-ant-963
+run_uuid: 853d449262584f419328f368ab118653
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685763855452
+status: 1
+tags: []
+user_id: Justi

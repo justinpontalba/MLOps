@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/gitRepo/MLOps/scripts/mlruns/0/8bb5092979714ba6bda10640236ebca2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8bb5092979714ba6bda10640236ebca2
+run_name: mysterious-fly-144
+run_uuid: 8bb5092979714ba6bda10640236ebca2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685763967709
+status: 1
+tags: []
+user_id: Justi
