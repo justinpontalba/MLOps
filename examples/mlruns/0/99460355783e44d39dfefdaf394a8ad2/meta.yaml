@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/gitRepo/MLOps/scripts/mlruns/0/99460355783e44d39dfefdaf394a8ad2/artifacts
+end_time: 1685749250000
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 99460355783e44d39dfefdaf394a8ad2
+run_name: able-jay-368
+run_uuid: 99460355783e44d39dfefdaf394a8ad2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685749249953
+status: 3
+tags: []
+user_id: Justi

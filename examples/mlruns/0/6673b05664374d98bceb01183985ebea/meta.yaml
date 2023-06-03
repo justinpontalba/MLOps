@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/gitRepo/MLOps/scripts/mlruns/0/6673b05664374d98bceb01183985ebea/artifacts
+end_time: 1685749085476
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6673b05664374d98bceb01183985ebea
+run_name: secretive-fox-483
+run_uuid: 6673b05664374d98bceb01183985ebea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685749085409
+status: 3
+tags: []
+user_id: Justi
